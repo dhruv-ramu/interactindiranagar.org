@@ -13,7 +13,7 @@ Deployed using Netlify:
 ## Some Information
 - Uses localstorage to store the user's dark/light theme preference
 - Has a hamburger menu for mobile
-- 
+- Uses Netlify to store form data
 ### Fonts
 - JetBrainsMono
 - Proxima Nova
