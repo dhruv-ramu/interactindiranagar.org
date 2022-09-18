@@ -224,7 +224,7 @@ h4 {
 
 /* Hero image */
 .content .content-image img {
-  width: 300px;
+  width: 500px;
   border: 1px solid var(--text-secondary-color);
   border-radius: 50%;
   padding: 30px;
